@@ -3,8 +3,6 @@
 
 ## Features
 
-**[Talk to GPT](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT)** provides the following features:
-
 1) Constructed using with OpenAI's **Chat Completions API**, enables the selection of either the ***gpt-3.5-turbo***, ***gpt-4o*** or ***gpt-4-turbo*** model to **generate high-quality human-like responses** to user’s prompts.
 
 2) Enables communication with the GPT model through either **text messages** or **speech input**.
@@ -15,7 +13,7 @@
 
 5) Offers a variety of **built-in prompts** that assign roles or personas to the chatbot, provides an effective starting point for each type of conversations, and ensures that the chatbot will produce the desired responses in an efficient manner.
 
-Below are the features offered by **[CodeMaxGPT](https://maxinexiong.github.io/intro-codemaxgpt.html)**:
+:
 
 1) Enables the selection of either the ***gpt-3.5-turbo***, ***gpt-4o*** or ***gpt-4-turbo*** model to **generate high-quality human-like responses** to user’s prompts.
    
@@ -129,11 +127,6 @@ Please ensure that your contributions align with the project's coding convention
 
 <br/>
 
-## **License**
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to modify and use the code for your own purposes. However, please note that OpenAI's usage policies and guidelines still apply when using the OpenAI API.
-
-<br/>
 
 ## **Acknowledgement**
 
